@@ -1,11 +1,11 @@
 # d3Presentation2015
-Presentation given at UtahJS meetup in June 2015
+Presentation given at UtahJS Conference in Sep 2015
 
 D3 enter / Exit / update examples:
 * [Old (no interactions)](http://goo.gl/I9mKSF)
 * [New (manual interaction)](http://goo.gl/dDLC9p)
 
-[Slides](https://slides.com/themcmurder/d3js2015/)
+[Slides](http://slides.com/themcmurder/d3js2015-4)
 
 Quick Links to Resources at end of slides
 * [d3js.org](http://d3js.org/)
